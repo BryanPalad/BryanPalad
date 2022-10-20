@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=BryanPalad&style=flat-square&color=blue" alt=""/>
 </div>
 <h2 align="center">Hi there 👋</h2>
----
 
 ### :man_technologist: About Me :
 I am a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
