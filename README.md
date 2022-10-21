@@ -8,13 +8,15 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=BryanPalad&style=flat-square&color=blue" alt=""/>
 </div>
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi, I'm Bryan Palad 👋</h2>
 
 ### :man_technologist: About Me :
 I am a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
 
 - 🔭 I’m currently working on internal/mini projects.
 - 🌱 I’m currently learning backend technologies...
+- 📫 How to reach me: paladbryanj@gmail.com
+- ⚡ Check my portfolio for more info: <a href='https://paladbryan.vercel.app/'>Click here</a>
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
