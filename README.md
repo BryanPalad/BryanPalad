@@ -16,7 +16,7 @@ I am a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 - 🔭 I’m currently working on internal/mini projects.
 - 🌱 I’m currently learning backend technologies...
 - 📫 How to reach me: paladbryanj@gmail.com
-- ⚡ Check my portfolio for more info: <a href='https://paladbryan.vercel.app/'>Click here</a>
+- ⚡ Check my portfolio for more info: <a href='https://bryanpalad.vercel.app/'>Click here</a>
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
