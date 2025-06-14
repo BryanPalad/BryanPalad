@@ -12,7 +12,8 @@
 
 ### :man_technologist: About Me :
 I am a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
-- I'm a Software Developer at eMandarin Ventures Inc.
+- I'm a Full Stack Developer at Allied Marketing Group
+- I'm a former Software Developer at eMandarin Ventures Inc.
 - 🔭 I’m currently working on internal/mini projects.
 - 🌱 I’m currently learning backend technologies...
 - 📫 How to reach me: paladbryanj@gmail.com
